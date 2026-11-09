@@ -13,6 +13,7 @@ and turning goals into daily action.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noah-dockery-3b4a152a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/blackrock633/blackrock633/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/RESUME-172D35?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Resume PDF" /></a>
 </p>
 
 <p align="center">
