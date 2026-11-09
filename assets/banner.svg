@@ -1,7 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300" role="img" aria-label="Noah Dockery. Build. Test. Iterate.">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b29"/><stop offset="1" stop-color="#172d35"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8e6df" stroke-opacity=".055"/></pattern></defs>
-<path fill="url(#bg)" d="M0 0h1600v300H0z"/><path fill="url(#grid)" d="M0 0h1600v300H0z"/>
-<path d="M68 65h64" stroke="#80dac4" stroke-width="5"/>
-<text x="64" y="165" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="4" fill="#f0f6f5">NOAH DOCKERY</text>
-<text x="69" y="220" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="5" fill="#9fbbb9">BUILD. TEST. ITERATE.</text>
-<g fill="none" stroke="#80dac4" stroke-width="2"><rect x="1290" y="55" width="150" height="150" rx="24" transform="rotate(20 1365 130)" opacity=".4"/><rect x="1340" y="95" width="150" height="150" rx="24" transform="rotate(20 1415 170)" opacity=".7"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-label="Noah Dockery — Web apps, AI tooling, sports analytics">
+<defs><clipPath id="frame"><rect width="1600" height="400" rx="20"/></clipPath><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#76d8bc"/><stop offset="1" stop-color="#268976"/></linearGradient></defs>
+<g clip-path="url(#frame)">
+<path fill="#f2f0e7" d="M0 0h1600v400H0z"/>
+<path d="M1110 0h490v400h-490z" fill="#102f31"/>
+<circle cx="1530" cy="50" r="220" fill="none" stroke="#255052" stroke-width="1"/>
+<circle cx="1530" cy="50" r="260" fill="none" stroke="#255052" stroke-width="1"/>
+<path d="M1180 285V195a120 120 0 0 1 240 0v90h-65v-90a55 55 0 0 0-110 0v90z" fill="url(#teal)"/>
+<path d="M1330 125v90a120 120 0 0 0 240 0v-90h-65v90a55 55 0 0 1-110 0v-90z" fill="#eceddc"/>
+<circle cx="1212" cy="327" r="7" fill="#87d9c0"/>
+<path d="M1236 327h263" stroke="#376160"/>
+<path d="M76 76h42" stroke="#248471" stroke-width="5"/>
+<text x="135" y="83" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#45615c">IDEAS INTO SOFTWARE</text>
+<text x="70" y="215" font-family="Arial,Helvetica,sans-serif" font-size="98" font-weight="700" letter-spacing="-4" fill="#163b37">Noah Dockery</text>
+<text x="77" y="274" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#45615c">Web apps / AI tooling / Sports analytics</text>
+<path d="M77 326h939" stroke="#cfD5c9"/>
+<text x="77" y="360" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#52726a">BUILD WITH CURIOSITY.</text>
+</g></svg>
