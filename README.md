@@ -12,6 +12,10 @@ and turning goals into daily action.
 <p align="center">Learning by shipping.</p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/noah-dockery-3b4a152a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,nextjs,supabase&amp;theme=dark" alt="TypeScript, Python, Next.js, Supabase" />
 </p>
 
