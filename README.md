@@ -1,8 +1,19 @@
-# Noah Dockery
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Noah Dockery — starfield banner" />
+</p>
 
-Building tools for better predictions, more useful AI workflows, and turning goals into daily action.
+<p align="center"><strong>Web apps · AI tooling · Sports analytics</strong></p>
 
-Working across TypeScript and Python, with projects in web development, browser automation, and sports analytics.
+<p align="center">
+Building tools for better predictions, more useful AI workflows,<br />
+and turning goals into daily action.
+</p>
+
+<p align="center">Learning by shipping.</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,nextjs,supabase&amp;theme=dark" alt="TypeScript, Python, Next.js, Supabase" />
+</p>
 
 ---
 
